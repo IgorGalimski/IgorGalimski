@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @IgorGalimski
-- 👀 I’m interested in mobile developemtn
+- 👀 I’m interested in mobile development
 - 🌱 I’m currently learning java, objective-c, swift
 - 📫 How to reach me igor.galimski@gmail.com
